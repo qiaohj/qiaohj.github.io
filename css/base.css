@@ -181,7 +181,7 @@ kbd:has(kbd) {
 }
 
 .u-wrapper {
-  max-width: 100rem;
+  max-width: 80rem;
   max-width: 60%;
   margin: auto;
 }
