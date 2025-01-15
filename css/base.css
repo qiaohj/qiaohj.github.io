@@ -111,7 +111,7 @@ kbd:has(kbd) {
 }
 
 .Banner-link {
-  font-size: 1.2rem;
+  font-size: 1.1rem;
   color: white;
   padding: 0.2rem 0.4rem;
 }
@@ -124,7 +124,7 @@ kbd:has(kbd) {
 }
 
 .Heading-title {
-  margin: 1.5rem 0.5rem 0 0;
+  margin: 1.2rem 0.5rem 0 0;
   font-size: 1rem;
 }
 
